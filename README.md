@@ -7,3 +7,15 @@
 
 > «Семь раз закоммить — один раз сделай pull request». — народная Git-мудрость
 
+# Лабораторная работа № 2
+Cайт на HTML и CSS по образцу FUTBIN.
+
+## Страницы
+"index.html" — главная с картинкой и ссылками.
+"players.html" — таблица игроков.
+"squads.html" — список составов.
+
+## Образец
+Главная страница: https://www.futbin.com.
+Игроки: https://www.futbin.com/27/popular.
+Составы: https://www.futbin.com/27/squads.

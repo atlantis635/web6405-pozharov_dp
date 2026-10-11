@@ -1,0 +1,35 @@
+/* Селектор тега */
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #181818;
+    color: white;
+}
+
+/* Селектор идентификатора */
+#logo {
+    color: #54cfa0;
+}
+
+a {
+    color: #54cfa0;
+}
+
+img {
+    width: 100px;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #666666;
+    text-align: left;
+}
+
+/* Селекторы классов */
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
