@@ -19,3 +19,8 @@ Cайт на HTML и CSS по образцу FUTBIN.
 Главная страница: https://www.futbin.com.
 Игроки: https://www.futbin.com/27/popular.
 Составы: https://www.futbin.com/27/squads.
+
+## Лабораторная работа № 3
+Реализованы функции на JavaScript по заданию.
+Код находится в lab3/src/core.js.
+Проверка: npm test из папки lab3.
